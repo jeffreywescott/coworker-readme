@@ -2,7 +2,7 @@
 marp: true
 title: README.jeffrey
 description: Learn what it's like to work with Jeffrey.
-theme: uncover
+theme: default
 paginate: true
 _paginate: false
 ---
