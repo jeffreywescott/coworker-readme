@@ -29,26 +29,30 @@ This is meant to be digested by people with whom I work closely, and especially 
   - with my wife (Senay), daughter (Naya), and son (Koa).
 - I've lived in the Bay Area for more than 20 years.
 - I prefer being outside to inside, _almost always_.
-- I've been involved in the creation of software products for more than 35 years (yes, really).
+- I've been involved in the creation of software for about 40 years (yes, really).
 
 ---
 
-### Why Splunk?
+### Why Lattice?
 
-- The business opportunity is _huge_.
-- The tech is really ambitious.
-- Splunk is full of passionate, hyper-intelligent people.
-- It's one of the most family-supportive organizations I've ever known.
+1. The **People** and **Culture** are what brought me here.
+2. The _massive_ business opportunity in front of us is hard to overstate.
+3. I believe I have some skills and experience that can be directly applied here to great benefit.
 
 ---
 
 ### My job is to
 
 - attract, hire, and retain world-class talent.
+- create the context in which these talented people can do the best work of their lives, which depends on
+  - a high-degree of [psychological safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html).
+  - people being engaged with the work, due to them
+    - having a high degree of **autonomy**.
+    - having the opportunity for them to develop **mastery**.
+    - understanding the **purpose** of the work they do.
 - enable amazing products to be delivered autonomously, by
   - relaying and / or setting context.
   - removing as many obstacles as I can.
-- steward a high-performance engineering culture, and especially a high-degree of [psychological safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html).
 
 **PLEASE let me know** if this doesn't line-up with your day-to-day experience of working with me.
 
@@ -78,7 +82,7 @@ This is meant to be digested by people with whom I work closely, and especially 
 
 ### About 1:1s
 
-If we work closely together, we'll have a regularly-occuring (typically weekly) 1:1. I'll provide a shared agenda we can co-maintain together.
+If we work closely together, we'll have a regularly-occuring 1:1.
 
 #### If I am your manager, the 1:1 is _your_ time:
 - _Don't_ use the time for status updates (unless you _really_ want / need to).
