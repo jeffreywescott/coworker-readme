@@ -1,0 +1,13 @@
+/* @theme jeffrey */
+
+@import 'default';
+
+:root {
+    background-color: #1e1e1e;
+    color: #efefef;
+}
+
+h1, h2, h3 {
+    font-size: 60px;
+    color: #9370db;
+}
