@@ -35,14 +35,15 @@ jobs:
 
       - name: Build Marp slide deck
         run: |
-          CHROME_PATH=$(node .puppeteer.js) npm run build
+          echo "Debug: Checking Chrome path..."
+          node .puppeteer.js
+          echo "Debug: Chrome path found, starting build..."
+          CHROME_PATH=$(node .puppeteer.js) npm run build --verbose
           touch ./dist/.nojekyll
         env:
-          # Please update URL if you want to use custom domain
           URL: https://${{ github.event.repository.owner.name }}.github.io/${{ github.event.repository.name }}
-
-          # Recommend to set lang for your deck to get better rendering for Open Graph image
           LANG: en-US
+          DEBUG: "marp-cli:*,puppeteer:*"  # Enable debug logging
 
       - name: Deploy to GitHub pages
         uses: JamesIves/github-pages-deploy-action@releases/v3
