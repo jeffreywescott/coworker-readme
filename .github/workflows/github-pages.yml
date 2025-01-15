@@ -43,7 +43,8 @@ jobs:
         env:
           URL: https://${{ github.event.repository.owner.name }}.github.io/${{ github.event.repository.name }}
           LANG: en-US
-          DEBUG: "marp-cli:*,puppeteer:*"  # Enable debug logging
+          DEBUG: "marp-cli:*,puppeteer:*"
+          PUPPETEER_ARGS: "--no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage"
 
       - name: Deploy to GitHub pages
         uses: JamesIves/github-pages-deploy-action@releases/v3
