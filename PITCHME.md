@@ -37,13 +37,13 @@ This is _primarily_ meant to be digested by people with whom I work closely, esp
 
 ---
 
-### Why Stellic?
+### Why Expel?
 
-I joined Stellic because:
+I joined Expel because:
 
 1. The **Team** (you all) are really impressive, yet humble.
-2. I believe my skills and experience are a great match for what Stellic needs at this stage.
-3. The **Mission** we've set out to achieve has created an incredible business opportunity in front of us.
+2. I am excited by the challenges that exist at Expel right now, and am eager to tackle them.
+3. I believe that Expel can become a generational brand in Cybersecurity, and that we can all share in a great financial outcome because of it.
 
 ---
 
