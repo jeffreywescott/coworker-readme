@@ -18,5 +18,8 @@
     "@marp-team/marp-cli": "^4.5.0",
     "cpy-cli": "^4.1.0",
     "rimraf": "^3.0.2"
+  },
+  "overrides": {
+    "katex": "^0.18.2"
   }
 }
